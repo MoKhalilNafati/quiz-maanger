@@ -12,14 +12,6 @@ The system is designed to manage:
 - Student quiz-taking and score-keeping
 - Quiz corrections and results
 
----
-
-## 👥 Authors
-- **Amine Yengui**
-- **Khalil Naffeti**
-
----
-
 ## 🗂️ Project Structure & Key Features
 
 ### 1. Core Architecture
@@ -45,7 +37,7 @@ This area allows students to test their knowledge.
 ## 🚀 Installation & Usage
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/YourUsername/YourRepoName.git](https://github.com/YourUsername/YourRepoName.git)
+    git clone https://github.com/MoKhalilNafati/quiz-manager.git
     ```
 2.  **Compile the Code:**
     * Navigate to the project's `src` directory.
